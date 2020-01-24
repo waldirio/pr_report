@@ -94,7 +94,7 @@ wrapt             1.11.2
 (pr_report_upstream) [wpinheir@ironman pr_report]$
 ```
 - Create your own TOKEN on github page
-  - Just follow the steps based on this [github page](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line){:target="_blank"}
+  - Just follow the steps based on this [github page](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line)
 
 After getting your `TOKEN`, let's do it. You can edit the file `pr_report.py` and change the line below accordingly
 ```
